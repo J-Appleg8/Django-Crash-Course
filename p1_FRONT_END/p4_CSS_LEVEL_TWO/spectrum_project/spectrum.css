@@ -1,0 +1,45 @@
+
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+}
+
+.art {
+    margin: auto;
+}
+
+td {
+    height: 300px;
+    width: 150px;
+    border: 6px solid white;
+}
+
+#blue {
+    background-color: #247BA0;
+    height: 200px;
+    width: 100px;
+}
+
+#lightblue {
+    background-color: #70C1B3;
+    height: 200px;
+    width: 100px;
+}
+
+#green {
+    background-color: #B2DBBF;
+    height: 200px;
+    width: 100px;
+}
+
+#yellow {
+    background-color: #F3FFBD;
+    height: 200px;
+    width: 100px;
+}
+
+#red {
+    background-color: #FF1654;
+    height: 200px;
+    width: 100px;
+}

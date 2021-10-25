@@ -1,0 +1,14 @@
+<head>
+The head of the HMTL is going to contain the metadata
+Mainly serve as how to link your HTML document to other types of documents
+
+<title></title>
+Title tag is what is going to show up as the title on the page
+
+<body></body>
+
+The body is what the page is going to contain
+
+
+<div> and <span>
+Used to group blocks of HTML together - usually to apply CSS
